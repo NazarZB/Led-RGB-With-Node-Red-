@@ -1,4 +1,7 @@
-#include <Adafruit_MQTT_Client.h>
+#include <WiFi.h>
+#include "Adafruit_MQTT.h"
+#include "Adafruit_MQTT_Client.h"
+
 
 WiFiClient wiFiClient;
 Adafruit_MQTT_Client mqttClient(&wiFiClient, "192.168.1.106", 1883);
