@@ -1,5 +1,7 @@
 # **Led RGB (with Node-red)**
 
+  Ce projet permet de réaliser une LED RGB pilotée à distance via une interface web.  
+  
 ## Vidéo 
 
 [![video](https://img.youtube.com/vi/pIA5Q94g/0.jpg)](https://www.youtube.com/watch?v=pIA5Q94g)
